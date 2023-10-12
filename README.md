@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫About Me :
 Hi 👋,
-I'm a forntend developer 💻🎨,
+I'm a front-end developer 💻🎨,
 I'm currently studying 👨‍🎓📕.
 
 # 💻Tech Stack
