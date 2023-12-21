@@ -109,3 +109,8 @@ I'm a junior web developer 💻, currently studying 👨‍🎓📕.
 
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## 💻 Personal Workspace Spec
+
+Laptop: ![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white)
+Processor: ![AppleSilicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
