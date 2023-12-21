@@ -1,7 +1,7 @@
 # 👋 Hi there
 Welcome to my GitHub profile.
 
-## 💫 About Me :
+## 💫 About Me
 Hi 👋,
 I'm a junior web developer 💻, currently studying 👨‍🎓📕.
 
