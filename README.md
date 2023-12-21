@@ -64,7 +64,7 @@ I'm a junior web developer 💻, currently studying 👨‍🎓📕.
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### Utilities 🛠
+### 🛠 Utilities
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
