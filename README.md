@@ -3,7 +3,7 @@ Welcome to my GitHub profile.
 
 ## 💫 About Me
 Hi 👋,
-I'm a junior web developer 💻, currently studying 👨‍🎓📕.
+I'm a junior web developer 💻.
 
 ## 💻 Tech Stack
 
