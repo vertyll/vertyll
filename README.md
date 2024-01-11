@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
 
-I'm a developer based in Poland, and I'm passionate about crafting digital experiences and web development.
+I'm a developer based in Poland, and I'm passionate about crafting digital experiences and web development. I am currently studying computer science with specialization in programming and I am learning.
 
 ## 💻 Tech Stack
 
@@ -27,10 +27,6 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
   
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- Back-end (JS):
-  
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 📦 Package managers
 
@@ -69,10 +65,6 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-
-### 🖍 Design
-
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
 ### 👩‍💻 IDE
 
