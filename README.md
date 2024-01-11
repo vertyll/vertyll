@@ -1,9 +1,7 @@
-# 👋 Hi there
+## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
 
-## 💫 About Me
-Hi 👋,
-I'm a junior web developer 💻.
+I'm a developer based in Poland, and I'm passionate about crafting digital experiences and web development.
 
 ## 💻 Tech Stack
 
