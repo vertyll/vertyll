@@ -8,7 +8,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82
 
 ## Navigation
 
-[Tech Stack](#Tech-Stack)
+[Tech Stack](#-tech-stack)
 
 ## 💻 Tech Stack
 
