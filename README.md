@@ -6,6 +6,10 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82ajgawron/)
 
+## Navigation
+
+[Tech Stack](#Tech-Stack)
+
 ## 💻 Tech Stack
 
 ### 👩‍💻 Languages
