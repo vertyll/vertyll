@@ -4,10 +4,10 @@ Welcome to my GitHub profile.
 I'm a developer based in Poland, and I'm passionate about crafting digital experiences and web development. I am currently studying computer science with specialization in programming. I improve my programming details every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
 [back to navigation](#-navigation)
-
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82ajgawron/)
 
+[back to navigation](#-navigation)
 ## 🧭 Navigation
 
 - [Welcome](#-hi-im-mikołaj)
@@ -104,7 +104,10 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+[back to navigation](#-navigation)
 ## 💻 Personal Workspace Spec
 
 ![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![AppleSilicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
+
+[back to navigation](#-navigation)
