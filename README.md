@@ -1,7 +1,7 @@
 ## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
 
-I'm a developer based in Poland, and I'm passionate about crafting digital experiences and web development. I am currently studying computer science with specialization in programming and I am learning.
+I'm a developer based in Poland, and I'm passionate about crafting digital experiences and web development. I am currently studying computer science with specialization in programming. I improve my programming details every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
 ## 💻 Tech Stack
 
