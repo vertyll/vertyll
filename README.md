@@ -28,6 +28,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - Back-end:
+
   ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🚀 Frameworks & Library
