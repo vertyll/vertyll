@@ -19,7 +19,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82
 
 - [Welcome](#-hi-im-mikołaj)
 - [Contact](#-contact)
-- [Projects](#-projects)
+- [Projects](#%EF%B8%8F-projects)
 - [Navigation](#-navigation)
 - [Tech Stack](#-tech-stack)
 - [Personal Workspace Spec](#-personal-workspace-spec)
