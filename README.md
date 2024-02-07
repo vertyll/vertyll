@@ -8,9 +8,17 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82ajgawron/)
 
 [back to navigation](#-navigation)
+## 👷‍♂️ Projects
+- https://github.com/vertyll/festival-page
+- https://github.com/vertyll/festival-admin
+- https://github.com/vertyll/express-firmy
+- https://github.com/vertyll/vue-posts-albums-form
+
+[back to navigation](#-navigation)
 ## 🧭 Navigation
 
 - [Welcome](#-hi-im-mikołaj)
+- [Projects](#-projects)
 - [Contact](#-contact)
 - [Navigation](#-navigation)
 - [Tech Stack](#-tech-stack)
