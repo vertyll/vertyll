@@ -9,10 +9,10 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82
 
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
-- https://github.com/vertyll/festival-page
-- https://github.com/vertyll/festival-admin
-- https://github.com/vertyll/express-firmy
-- https://github.com/vertyll/vue-posts-albums-form
+- [Festival Page](https://github.com/vertyll/festival-page)
+- [Festival Admin](https://github.com/vertyll/festival-admin)
+- [Express companies](https://github.com/vertyll/express-firmy)
+- [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
 
 [back to navigation](#-navigation)
 ## 🧭 Navigation
