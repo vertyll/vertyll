@@ -1,4 +1,4 @@
-<img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="100">
+<img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="200">
 
 ## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
