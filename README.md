@@ -1,3 +1,5 @@
+![Rustacean](https://rustacean.net/assets/rustacean-flat-gesture.svg)
+
 ## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
 
