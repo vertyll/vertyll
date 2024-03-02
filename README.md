@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="200">
+  <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="150">
 </p>
 
 ## 👋 Hi I'm Mikołaj
@@ -9,7 +9,7 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
 
 [back to navigation](#-navigation)
 ## 📫 Contact
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82ajgawron/)
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-gawron/)
 
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
