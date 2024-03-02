@@ -1,4 +1,4 @@
-![Rustacean](https://rustacean.net/assets/rustacean-flat-gesture.svg)
+<img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="100">
 
 ## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
