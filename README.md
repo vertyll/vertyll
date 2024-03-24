@@ -135,7 +135,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 [back to navigation](#-navigation)
 ## 💻 Personal Workspace Spec
 
-![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_2023-333333?style=for-the-badge&logo=apple&logoColor=white)
+![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_M3_MAX_2023-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![AppleSilicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 
 [back to navigation](#-navigation)
