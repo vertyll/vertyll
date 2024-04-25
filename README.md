@@ -9,7 +9,7 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
 
 [back to navigation](#-navigation)
 ## 📫 Contact
----
+
 
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
