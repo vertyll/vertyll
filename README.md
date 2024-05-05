@@ -13,10 +13,17 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
+
+### JavaScript
+
 - [Festival Page](https://github.com/vertyll/festival-page)
 - [Festival Admin](https://github.com/vertyll/festival-admin)
 - [Express companies](https://github.com/vertyll/express-firmy)
 - [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
+
+### Rust
+
+- [Rust console projects](https://github.com/vertyll/rust-console-projects)
 
 [back to navigation](#-navigation)
 ## 🧭 Navigation
