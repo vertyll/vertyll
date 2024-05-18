@@ -20,6 +20,8 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 - [Festival Admin](https://github.com/vertyll/festival-admin)
 - [Express companies](https://github.com/vertyll/express-firmy)
 - [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
+- [SnapTale](https://github.com/vertyll/SnapTale)
+- [SnapTale - API](https://github.com/vertyll/SnapTale-API)
 
 ### Rust
 
