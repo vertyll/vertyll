@@ -14,7 +14,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
 
-### JavaScript / Node.js
+### JavaScript / Node.js / Web Development
 
 - [Festival Page](https://github.com/vertyll/festival-page)
 - [Festival Admin](https://github.com/vertyll/festival-admin)
