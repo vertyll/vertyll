@@ -52,6 +52,8 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ### 🚀 Frameworks & Library
 
   ![Angular.js](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  !
+[NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -62,7 +64,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  !
 
 ### 📦 Package managers
 
