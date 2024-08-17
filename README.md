@@ -22,6 +22,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 - [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
 - [SnapTale](https://github.com/vertyll/SnapTale)
 - [SnapTale - API](https://github.com/vertyll/SnapTale-API)
+- [iluvcoffee](https://github.com/vertyll/iluvcoffee)
 
 ### Rust
 
