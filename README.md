@@ -64,6 +64,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![SWC](https://img.shields.io/badge/SWC-282828?style=for-the-badge&logo=swc)
 
 ### 📦 Package managers
 
@@ -73,7 +74,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 ### 🏗 Build tools
 
-![SWC](https://img.shields.io/badge/SWC-282828?style=for-the-badge&logo=swc)
 ![Vite.js](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
