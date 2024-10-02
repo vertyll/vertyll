@@ -5,7 +5,7 @@
 ## 👋 Hi I'm Mikołaj
 Welcome to my GitHub profile.
 
-I'm a developer based in Poland, and I'm passionate about crafting digital experiences, web development and low level programming. I am engineer, specializing in programming and currently studying computer science with specialization in IoT and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
+I'm a developer based in Poland, and I'm passionate about crafting digital experiences, web development and low-level programming. I am engineer, specializing in programming and currently studying computer science with specialization in IoT and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
 [back to navigation](#-navigation)
 ## 📫 Contact
