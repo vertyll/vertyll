@@ -27,8 +27,8 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 ### Rust
 
-- [Rust console projects](https://github.com/vertyll/rust-console-projects)
 - [Form builder](https://github.com/vertyll/form-builder)
+- [Rust console projects](https://github.com/vertyll/rust-console-projects)
 
 ### Project for college
 
