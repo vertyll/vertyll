@@ -29,6 +29,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 - [Form builder](https://github.com/vertyll/form-builder)
 - [Rust console projects](https://github.com/vertyll/rust-console-projects)
+- [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server)
 
 ### Project for college
 
