@@ -16,9 +16,9 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 ### Web Development
 
+- [Fastdo](https://github.com/vertyll/fastdo)
 - [Festival Page](https://github.com/vertyll/festival-page)
 - [Festival Admin](https://github.com/vertyll/festival-admin)
-- [Fastdo](https://github.com/vertyll/fastdo)
 - [SnapTale](https://github.com/vertyll/SnapTale)
 - [SnapTale - API](https://github.com/vertyll/SnapTale-API)
 - [Express companies](https://github.com/vertyll/express-firmy)
