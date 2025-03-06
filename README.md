@@ -24,6 +24,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 - [Express companies](https://github.com/vertyll/express-firmy)
 - [iluvcoffee](https://github.com/vertyll/iluvcoffee)
 - [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
+- [Fastprod](https://github.com/vertyll/fastprod)
 
 ### Rust
 
