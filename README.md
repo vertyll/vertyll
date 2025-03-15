@@ -21,14 +21,14 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 - [Festival Admin](https://github.com/vertyll/festival-admin)
 - [SnapTale](https://github.com/vertyll/SnapTale)
 - [SnapTale - API](https://github.com/vertyll/SnapTale-API)
+- [Rust Axum App](https://github.com/vertyll/rust-axum-app)
 - [Express companies](https://github.com/vertyll/express-firmy)
 - [iluvcoffee](https://github.com/vertyll/iluvcoffee)
 - [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
 
-### Rust
+### Console / Web Server
 
 - [Form builder](https://github.com/vertyll/form-builder)
-- [Rust Axum App](https://github.com/vertyll/rust-axum-app)
 - [Rust console projects](https://github.com/vertyll/rust-console-projects)
 - [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server)
 
