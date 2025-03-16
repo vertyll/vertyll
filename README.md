@@ -24,7 +24,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 - [Rust Axum App](https://github.com/vertyll/rust-axum-app)
 - [Express companies](https://github.com/vertyll/express-firmy)
 - [iluvcoffee](https://github.com/vertyll/iluvcoffee)
-- [Vue posts, albums](https://github.com/vertyll/vue-posts-albums-form)
 
 ### Console / Web Server
 
