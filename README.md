@@ -47,6 +47,10 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 ## 💻 Tech Stack
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vertyll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ### 👩‍💻 Languages
 
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
