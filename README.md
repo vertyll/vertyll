@@ -5,11 +5,11 @@
 ## 👋 Hi I'm Mikołaj
 <table>
   <tr>
-    <td width="50%" style="padding: 5px;" valign="top">
+    <td width="50%">
 Welcome to my GitHub profile.
 I'm a developer based in Poland, and I'm passionate about crafting digital experiences, web development and low-level programming. I am engineer, specializing in programming and currently studying computer science with specialization in IoT and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
     </td>
-    <td width="50%" style="padding: 5px;" align="center">
+    <td width="50%">
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vertyll&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph" />
       </div>
