@@ -124,7 +124,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ### ⏱️ Workflow Platforms
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![YouTrack](https://img.shields.io/badge/YouTrack-FB4275?style=for-the-badge&logo=YouTrack&logoColor=black)
+![YouTrack](https://img.shields.io/badge/YouTrack-FB4275?style=for-the-badge&logo=jetbrains&logoColor=black)
 
 ### 🗨 Communicators
 
