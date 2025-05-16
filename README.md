@@ -7,10 +7,6 @@
 Welcome to my GitHub profile.
 I'm a developer based in Poland, and I'm passionate about crafting digital experiences, web development, back-end engineering, and low-level programming. I am engineer, specializing in programming and currently studying computer science with specialization in IoT and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</div>
-
 [back to navigation](#-navigation)
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-gawron/)
