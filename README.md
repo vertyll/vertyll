@@ -33,10 +33,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 - [Rust console projects](https://github.com/vertyll/rust-console-projects)
 - [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server)
 
-### Project for college
-
-- [asp.net-project-college](https://github.com/vertyll/asp.net-project-college)
-
 [back to navigation](#-navigation)
 ## 🧭 Navigation
 
