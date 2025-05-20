@@ -17,7 +17,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ### Web Development
 
 - [FastDo](https://github.com/vertyll/fastdo)
-- [Project A Microservices](https://github.com/vertyll/project-a)
+- [Project A Microservices](https://github.com/vertyll/project-a-microservices)
 - [Project A](https://github.com/vertyll/project-a)
 - [FastProd](https://github.com/vertyll/fastprod)
 - [Festival Page](https://github.com/vertyll/festival-page)
