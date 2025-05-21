@@ -9,7 +9,6 @@ I'm a developer based in Poland, and I'm passionate about crafting digital exper
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertyll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vertyll&theme=dark&hide_border=false">
 </p>
 
 [back to navigation](#-navigation)
