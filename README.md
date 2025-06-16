@@ -19,6 +19,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ## 👷‍♂️ Projects
 
 <div align="center">
+  
 | Web Development | Console / Web Server | Team Projects |
 |-----------------|----------------------|---------------|
 | [FastDo](https://github.com/vertyll/fastdo) | [Form builder](https://github.com/vertyll/form-builder) | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system)
@@ -31,6 +32,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 | [SnapTale - API](https://github.com/vertyll/SnapTale-API) | | |
 | [Rust Axum App](https://github.com/vertyll/rust-axum-app) | | |
 | [Express companies](https://github.com/vertyll/express-firmy) | | |
+
 </div>
 
 [back to navigation](#-navigation)
