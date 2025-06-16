@@ -4,8 +4,10 @@
 
 ## 👋 Hi I'm Mikołaj
 
+<p align="justify">
 Welcome to my GitHub profile.
-I'm a developer based in Poland, and I'm passionate about software architecture, web development, <b>back-end engineering</b> and low-level programming. I am engineer, specializing in programming and currently studying computer science with specialization in IoT and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
+I'm a developer based in Poland, and I'm passionate about software architecture, web development, <b>back-end engineering</b> <img src="https://img.shields.io/badge/back--end%20engineering-2196F3?style=flat-square" alt="back-end engineering" style="vertical-align: middle;"> and low-level programming. I am engineer, specializing in programming and currently studying computer science with specialization in IoT and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertyll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
