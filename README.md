@@ -25,7 +25,7 @@ Docs / App language: 🇬🇧🇵🇱
 
 | Web Development (Personal) | Console / Web Server (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
-| [FastDo](https://github.com/vertyll/fastdo) 🇬🇧🇵🇱 | [Form builder](https://github.com/vertyll/form-builder) 🇬🇧 | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system)
+| [FastDo](https://github.com/vertyll/fastdo) 🇬🇧🇵🇱 | [Form builder](https://github.com/vertyll/form-builder) 🇬🇧 | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) 🇬🇧🇵🇱
 | [Project A Microservices](https://github.com/vertyll/project-a-microservices) 🇬🇧 | [Rust console projects](https://github.com/vertyll/rust-console-projects) 🇬🇧 | - |
 | [Festival Page](https://github.com/vertyll/festival-page) 🇵🇱 | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) 🇬🇧 | - |
 | [Festival Admin](https://github.com/vertyll/festival-admin) 🇵🇱 | - | - |
