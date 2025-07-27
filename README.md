@@ -31,8 +31,8 @@ Docs / App language: 🇬🇧 - English 🇵🇱 - Polish
 | [Festival Admin](https://github.com/vertyll/festival-admin) 🇵🇱 | - | - |
 | [SnapTale](https://github.com/vertyll/SnapTale) 🇵🇱 | - | - |
 | [SnapTale - API](https://github.com/vertyll/SnapTale-API) 🇵🇱 | - | - |
-| [Rust Axum App](https://github.com/vertyll/rust-axum-app) 🇬🇧 🇵🇱 | - | - |
 | [Express companies](https://github.com/vertyll/express-firmy) 🇵🇱 | - | - |
+| [Rust Axum App](https://github.com/vertyll/rust-axum-app) 🇬🇧 🇵🇱 | - | - |
 | [Project A](https://github.com/vertyll/project-a) 🇬🇧 | - | - |
 | [FastProd](https://github.com/vertyll/fastprod) 🇬🇧 | - | - |
 
