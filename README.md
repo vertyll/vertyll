@@ -23,7 +23,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 Legend:
 Docs / App language: 🇬🇧 - English 🇵🇱 - Polish
 
-| Web Development (Personal) | Console / Web Server (Personal) | Team Projects |
+| Web Development (Personal) | Console / System (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
 | [FastDo](https://github.com/vertyll/fastdo) 🇬🇧 🇵🇱 | [Form builder](https://github.com/vertyll/form-builder) 🇬🇧 | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) 🇬🇧 🇵🇱
 | [Project A Microservices](https://github.com/vertyll/project-a-microservices) 🇬🇧 | [Rust console projects](https://github.com/vertyll/rust-console-projects) 🇬🇧 | - |
