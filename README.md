@@ -18,11 +18,11 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
 
-<div align="center">
-
 Legend:
 - Docs / App language: 🇬🇧 - English | 🇵🇱 - Polish
 - Live Preview: 👁️
+
+<div align="center">
 
 | Web Development (Personal) | Console / System (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
