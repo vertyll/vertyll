@@ -21,7 +21,8 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 <div align="center">
 
 Legend:
-Docs / App language: 🇬🇧 - English | 🇵🇱 - Polish | 👁️ - Preview
+- Docs / App language: 🇬🇧 - English | 🇵🇱 - Polish
+- Live Preview: 👁️
 
 | Web Development (Personal) | Console / System (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
