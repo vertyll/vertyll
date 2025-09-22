@@ -18,7 +18,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 [back to navigation](#-navigation)
 ## 👷‍♂️ Projects
 
-Legend:
+**Legend:**
 - Docs / App language: 🇬🇧 - English | 🇵🇱 - Polish
 - Live Preview: 👁️
 
