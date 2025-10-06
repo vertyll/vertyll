@@ -32,7 +32,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 | [Festival Admin](https://github.com/vertyll/festival-admin) 🇵🇱 👁️ | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) 🇬🇧 🇵🇱 | - |
 | [SnapTale](https://github.com/vertyll/SnapTale) 🇵🇱 👁️ | - | - |
 | [SnapTale - API](https://github.com/vertyll/SnapTale-API) 🇵🇱 👁️ | - | - |
-| [Express companies](https://github.com/vertyll/express-firmy) 🇵🇱 👁️ | - | - |
 | [Rust Axum App](https://github.com/vertyll/rust-axum-app) 🇬🇧 🇵🇱 | - | - |
 | [Project A](https://github.com/vertyll/project-a) 🇬🇧 | - | - |
 | [FastProd](https://github.com/vertyll/fastprod) 🇬🇧 | - | - |
