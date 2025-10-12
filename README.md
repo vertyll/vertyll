@@ -27,14 +27,14 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 | Web Development (Personal) | Console / System (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
 | [Project A Microservices](https://github.com/vertyll/project-a-microservices) 🇬🇧 | [Form builder](https://github.com/vertyll/form-builder) 🇬🇧 | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) 🇬🇧 🇵🇱
-| [FastDo](https://github.com/vertyll/fastdo) 🇬🇧 🇵🇱 👁️| [Rust console projects](https://github.com/vertyll/rust-console-projects) 🇬🇧 | - |
+| [FastProd](https://github.com/vertyll/fastprod) 🇬🇧 | [Rust console projects](https://github.com/vertyll/rust-console-projects) 🇬🇧 | - |
+| [FastDo](https://github.com/vertyll/fastdo) 🇬🇧 🇵🇱 👁️| - | - |
 | [Festival Page](https://github.com/vertyll/festival-page) 🇵🇱 👁️ | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) 🇬🇧 | - |
 | [Festival Admin](https://github.com/vertyll/festival-admin) 🇵🇱 👁️ | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) 🇬🇧 🇵🇱 | - |
 | [SnapTale](https://github.com/vertyll/SnapTale) 🇵🇱 👁️ | - | - |
 | [SnapTale - API](https://github.com/vertyll/SnapTale-API) 🇵🇱 👁️ | - | - |
 | [Rust Axum App](https://github.com/vertyll/rust-axum-app) 🇬🇧 🇵🇱 | - | - |
 | [Project A](https://github.com/vertyll/project-a) 🇬🇧 | - | - |
-| [FastProd](https://github.com/vertyll/fastprod) 🇬🇧 | - | - |
 
 </div>
 
