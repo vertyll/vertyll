@@ -19,22 +19,22 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ## 👷‍♂️ Projects
 
 **Legend:**
-- Docs / App language: EN - English | PL - Polish
+- Docs / App language: `EN` - English | `PL` - Polish
 - Live Preview: 👁️
 
 <div align="center">
 
 | Web Development (Personal) | Console / System (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
-| [Project A Microservices](https://github.com/vertyll/project-a-microservices) EN | [Form builder](https://github.com/vertyll/form-builder) EN | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) EN PL
-| [FastProd](https://github.com/vertyll/fastprod) EN | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) EN PL | - |
-| [FastDo](https://github.com/vertyll/fastdo) EN PL 👁️| [Rust console projects](https://github.com/vertyll/rust-console-projects) EN | - |
-| [Festival Page](https://github.com/vertyll/festival-page) PL 👁️ | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) EN | - |
-| [Festival Admin](https://github.com/vertyll/festival-admin) PL 👁️ | - | - |
-| [SnapTale](https://github.com/vertyll/SnapTale) PL 👁️ | - | - |
-| [SnapTale - API](https://github.com/vertyll/SnapTale-API) PL 👁️ | - | - |
-| [Rust Axum App](https://github.com/vertyll/rust-axum-app) EN PL | - | - |
-| [Project A](https://github.com/vertyll/project-a) EN | - | - |
+| [Project A Microservices](https://github.com/vertyll/project-a-microservices) `EN` | [Form builder](https://github.com/vertyll/form-builder) `EN` | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) `EN` `PL`
+| [FastProd](https://github.com/vertyll/fastprod) `EN` | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) `EN` `PL` | - |
+| [FastDo](https://github.com/vertyll/fastdo) `EN` `PL` 👁️| [Rust console projects](https://github.com/vertyll/rust-console-projects) `EN` | - |
+| [Festival Page](https://github.com/vertyll/festival-page) `PL` 👁️ | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) `EN` | - |
+| [Festival Admin](https://github.com/vertyll/festival-admin) `PL` 👁️ | - | - |
+| [SnapTale](https://github.com/vertyll/SnapTale) `PL` 👁️ | - | - |
+| [SnapTale - API](https://github.com/vertyll/SnapTale-API) `PL` 👁️ | - | - |
+| [Rust Axum App](https://github.com/vertyll/rust-axum-app) `EN` `PL` | - | - |
+| [Project A](https://github.com/vertyll/project-a) `EN` | - | - |
 
 </div>
 
