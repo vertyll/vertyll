@@ -20,7 +20,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 **Legend:**
 - Docs / App language: `EN` - English | `PL` - Polish
-- Live Preview: 👁️
+- Live Preview: `LP`
 
 <div align="center">
 
@@ -28,10 +28,10 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 |-----------------|----------------------|---------------|
 | [Project A Microservices](https://github.com/vertyll/project-a-microservices) `EN` | [Form builder](https://github.com/vertyll/form-builder) `EN` | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) `EN` `PL`
 | [FastProd](https://github.com/vertyll/fastprod) `EN` | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) `EN` `PL` | - |
-| [FastDo](https://github.com/vertyll/fastdo) `EN` `PL` 👁️| [Rust console projects](https://github.com/vertyll/rust-console-projects) `EN` | - |
-| [Festival Page](https://github.com/vertyll/festival-page) `PL` 👁️ | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) `EN` | - |
-| [Festival Admin](https://github.com/vertyll/festival-admin) `PL` 👁️ | - | - |
-| [SnapTale](https://github.com/vertyll/SnapTale) `PL` 👁️ | - | - |
+| [FastDo](https://github.com/vertyll/fastdo) `EN` `PL` `LP` | [Rust console projects](https://github.com/vertyll/rust-console-projects) `EN` | - |
+| [Festival Page](https://github.com/vertyll/festival-page) `PL` `LP` | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) `EN` | - |
+| [Festival Admin](https://github.com/vertyll/festival-admin) `PL` `LP` | - | - |
+| [SnapTale](https://github.com/vertyll/SnapTale) `PL` `LP` | - | - |
 | [Rust Axum App](https://github.com/vertyll/rust-axum-app) `EN` `PL` | - | - |
 | [Project A](https://github.com/vertyll/project-a) `EN` | - | - |
 
