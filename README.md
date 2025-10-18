@@ -20,7 +20,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 **Legend:**
 - Docs / App language: `EN` - English | `PL` - Polish
-- Live Preview: `LP`
+- Live Preview: `![Static Badge](https://img.shields.io/badge/LP-green)`
 
 <div align="center">
 
