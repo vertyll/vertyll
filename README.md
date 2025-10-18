@@ -1,15 +1,15 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="150">
-</p>
+</p> -->
 
 ## 👋 Hi I'm Mikołaj
 
 Welcome to my GitHub profile.
 I'm a developer based in Poland, and I'm passionate about software architecture, web development, <b>back-end engineering</b> and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertyll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p>
+</p> -->
 
 [back to navigation](#-navigation)
 ## 📫 Contact
