@@ -32,7 +32,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 | [Festival Page](https://github.com/vertyll/festival-page) `PL` 👁️ | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) `EN` | - |
 | [Festival Admin](https://github.com/vertyll/festival-admin) `PL` 👁️ | - | - |
 | [SnapTale](https://github.com/vertyll/SnapTale) `PL` 👁️ | - | - |
-| [SnapTale - API](https://github.com/vertyll/SnapTale-API) `PL` 👁️ | - | - |
 | [Rust Axum App](https://github.com/vertyll/rust-axum-app) `EN` `PL` | - | - |
 | [Project A](https://github.com/vertyll/project-a) `EN` | - | - |
 
