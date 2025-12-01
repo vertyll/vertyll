@@ -61,8 +61,9 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 ### 🚀 Frameworks & Libraries & Technologies
 
-#### Message Broker
+#### Technologies
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white")
+![Keycloak](https://img.shields.io/badge/Keycloak-33c6e9?style=for-the-badge&logo=keycloak&logoColor=4D4D4D")
 
 #### Back-end
 
