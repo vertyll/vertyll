@@ -1,16 +1,18 @@
-<!-- <p align="center">
+<!--
+<p align="center">
   <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="150">
-</p> -->
-
+</p>
+-->
 ## 👋 Hi I'm Mikołaj
 
 Welcome to my GitHub profile.
-I'm a developer based in Poland, and I'm passionate about software architecture, web development, <b>back-end engineering</b> and low-level programming. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
+I'm a developer based in Poland, and I'm passionate about software architecture, web development and <b>back-end engineering</b>. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
-<!-- <p align="center">
+<!--
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertyll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</p> -->
-
+</p>
+-->
 [back to navigation](#-navigation)
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-gawron/)
@@ -126,6 +128,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
+<!--
 ### 👩‍💻 IDE
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -141,7 +144,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![MSTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
-
+-->
 ### 💻 OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
