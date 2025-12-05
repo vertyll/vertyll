@@ -25,8 +25,9 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 <!--
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-gawron/)
--->
+
 [back to navigation](#-navigation)
+-->
 
 ## 👷‍♂️ Projects
 
