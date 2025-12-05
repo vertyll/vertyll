@@ -17,14 +17,15 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 -->
 ## 🧭 Navigation
 
-- [Contact](#-contact)
+<!-- - [Contact](#-contact) -->
 - [Projects](#‍%EF%B8%8F-projects)
 - [Tech Stack](#-tech-stack)
-- [Personal Workspace Spec](#-personal-workspace-spec)
+<!-- - [Personal Workspace Spec](#-personal-workspace-spec) -->
 
+<!--
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-gawron/)
-
+-->
 [back to navigation](#-navigation)
 
 ## 👷‍♂️ Projects
@@ -153,9 +154,10 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [back to navigation](#-navigation)
-
+<!--
 ## 💻 Personal Workspace Spec
 
 ![MacBookPro](https://img.shields.io/badge/Apple-MacBook_Pro_M3_MAX_2023-333333?style=for-the-badge&logo=apple&logoColor=white)
 
 [back to navigation](#-navigation)
+-->
