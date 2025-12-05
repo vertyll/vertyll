@@ -8,16 +8,26 @@
 Welcome to my GitHub profile.
 I'm a developer based in Poland, and I'm passionate about software architecture, web development and <b>back-end engineering</b>. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
+[go to navigation](#-navigation)
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertyll&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 -->
-[back to navigation](#-navigation)
+## 🧭 Navigation
+
+- [Contact](#-contact)
+- [Projects](#%EF%B8%8F-projects)
+- [Navigation](#-navigation)
+- [Tech Stack](#-tech-stack)
+- [Personal Workspace Spec](#-personal-workspace-spec)
+
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-gawron/)
 
 [back to navigation](#-navigation)
+
 ## 👷‍♂️ Projects
 
 **Legend:**
@@ -40,14 +50,6 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 </div>
 
 [back to navigation](#-navigation)
-## 🧭 Navigation
-
-- [Welcome](#-hi-im-mikołaj)
-- [Contact](#-contact)
-- [Projects](#%EF%B8%8F-projects)
-- [Navigation](#-navigation)
-- [Tech Stack](#-tech-stack)
-- [Personal Workspace Spec](#-personal-workspace-spec)
 
 ## 💻 Tech Stack
 
