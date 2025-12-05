@@ -18,7 +18,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 ## 🧭 Navigation
 
 - [Contact](#-contact)
-- [Projects](#-projects)
+- [Projects](#‍%EF%B8%8F-projects)
 - [Tech Stack](#-tech-stack)
 - [Personal Workspace Spec](#-personal-workspace-spec)
 
