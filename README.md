@@ -40,7 +40,7 @@ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mikolaj-ga
 | Web Development (Personal) | Console / System (Personal) | Team Projects |
 |-----------------|----------------------|---------------|
 | [Project A Microservices](https://github.com/vertyll/project-a-microservices) 🔵 | [Form builder](https://github.com/vertyll/form-builder) 🔵 | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) 🔵 🔴
-| [FastProd](https://github.com/vertyll/fastprod) 🔵 | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) 🔵 🔴 | - |
+| [FastProd](https://github.com/vertyll/fastprod) 🔵 | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) 🔵 🔴 | [Freshly](https://github.com/vertyll/freshly) 🔵 🔴 |
 | [FastDo](https://github.com/vertyll/fastdo) 🔵 🔴 👁️ | [Rust console projects](https://github.com/vertyll/rust-console-projects) 🔵 | - |
 | [Festival Page](https://github.com/vertyll/festival-page) 🔴 👁️ | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) 🔵 | - |
 | [Festival Admin](https://github.com/vertyll/festival-admin) 🔴 👁️ | - | - |
