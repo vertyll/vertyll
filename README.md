@@ -66,23 +66,23 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white)
 ![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-282828?style=for-the-badge&logo=Mockito&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-282828?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![PMD](https://img.shields.io/badge/pmd-282828?style=for-the-badge&logo=pmd&logoColor=white)
-![SpotBugs](https://img.shields.io/badge/SpotBugs-282828?style=for-the-badge&logo=spotbugs&logoColor=white)
-![JSpecify](https://img.shields.io/badge/jspecify-282828?style=for-the-badge&logo=jspecify&logoColor=white)
-![NullAway](https://img.shields.io/badge/nullaway-282828?style=for-the-badge&logo=nullaway&logoColor=white)
-![Error Prone](https://img.shields.io/badge/error_prone-282828?style=for-the-badge&logo=errorprone&logoColor=white)
-![Spotless](https://img.shields.io/badge/spotless-282828?style=for-the-badge&logo=spotless&logoColor=white)
-![Detekt](https://img.shields.io/badge/detekt-282828?style=for-the-badge&logo=detekt&logoColor=white)
-![ktlint](https://img.shields.io/badge/ktlint-282828?style=for-the-badge&logo=ktlint&logoColor=white)
+![PMD](https://img.shields.io/badge/pmd-282828?style=for-the-badge)
+![SpotBugs](https://img.shields.io/badge/SpotBugs-282828?style=for-the-badge)
+![JSpecify](https://img.shields.io/badge/jspecify-282828?style=for-the-badge)
+![NullAway](https://img.shields.io/badge/nullaway-282828?style=for-the-badge)
+![Error Prone](https://img.shields.io/badge/error_prone-282828?style=for-the-badge)
+![Spotless](https://img.shields.io/badge/spotless-282828?style=for-the-badge)
+![Detekt](https://img.shields.io/badge/detekt-282828?style=for-the-badge)
+![ktlint](https://img.shields.io/badge/ktlint-282828?style=for-the-badge)
 ![SWC](https://img.shields.io/badge/SWC-282828?style=for-the-badge&logo=swc&logoColor=F8C457)
 
 #### Front-end
@@ -118,7 +118,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
 ![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
-![SDKMAN!](https://img.shields.io/badge/sdkman!-282828?style=for-the-badge&logo=sdkman&logoColor=white)
+![SDKMAN!](https://img.shields.io/badge/sdkman!-282828?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
@@ -127,7 +127,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 
 ### ☁ Cloud Platforms
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge)
 ![GoogleCloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -135,6 +135,6 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
 
 [back to navigation](#-navigation)
