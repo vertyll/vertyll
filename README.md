@@ -120,6 +120,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 ![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
 ![SDKMAN!](https://img.shields.io/badge/sdkman!-282828?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Studio 3T](https://img.shields.io/badge/studio_3t-17AF66?style=for-the-badge&logo=studio3t&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
