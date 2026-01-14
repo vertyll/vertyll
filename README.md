@@ -75,6 +75,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 ![Mockito](https://img.shields.io/badge/Mockito-282828?style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-282828?style=for-the-badge)
 ![PMD](https://img.shields.io/badge/pmd-282828?style=for-the-badge)
 ![SpotBugs](https://img.shields.io/badge/SpotBugs-282828?style=for-the-badge)
 ![JSpecify](https://img.shields.io/badge/jspecify-282828?style=for-the-badge)
