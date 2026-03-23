@@ -117,6 +117,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 
 ![Sonar](https://img.shields.io/badge/sonar-FD3456?style=for-the-badge&logo=sonar&logoColor=black)
 ![Sonar Qube For IDE](https://img.shields.io/badge/sonar_qube_for_ide-126ED3?style=for-the-badge&logo=sonarqubeforide&logoColor=black)
+![Sonatype Nexus Repository](https://img.shields.io/badge/Sonatype_Nexus_Repository-58B36F?style=for-the-badge&logo=sonatype&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
 ![Homebrew](https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
