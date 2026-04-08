@@ -23,7 +23,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 ## 👷‍♂️ Projects
 
 **Legend:**
-- Docs / App language: 🔵 - English | 🔴 - Polish
+- Docs / App language: 🔵 – English | 🔴 – Polish
 - Deployment: 👁️
 
 <div align="center">
