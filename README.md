@@ -33,7 +33,7 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 | [VEDS](https://github.com/vertyll/veds) 🔵 👁️ | [Form builder](https://github.com/vertyll/form-builder) 🔵 | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) 🔵 🔴
 | [FastProd](https://github.com/vertyll/fastprod) 🔵 👁️ | [Rust system monitor](https://github.com/vertyll/rust-system-monitor) 🔵 🔴 | - |
 | [Freshly](https://github.com/vertyll/freshly) 🔵 🔴 👁️ | [Rust console projects](https://github.com/vertyll/rust-console-projects) 🔵 | - |
-| [Project A](https://github.com/vertyll/project-a) 🔵 | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) 🔵 | - |
+| [Kotlin API](https://github.com/vertyll/kotlin-api) 🔵 | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server) 🔵 | - |
 | [FastDo](https://github.com/vertyll/fastdo) 🔵 🔴 👁️ | - | - |
 | [Festival Page](https://github.com/vertyll/festival-page) 🔴 👁️ | - | - |
 | [Festival Admin](https://github.com/vertyll/festival-admin) 🔴 👁️ | - | - |
