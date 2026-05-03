@@ -139,6 +139,5 @@ I'm a developer based in Poland, and I'm passionate about software architecture,
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
 
 [back to navigation](#-navigation)
