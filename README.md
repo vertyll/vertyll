@@ -3,7 +3,7 @@
   <img src="https://rustacean.net/assets/rustacean-flat-gesture.svg" width="150">
 </p>
 -->
-## 👋 Hi I'm Mikołaj, mainly Java/Kotlin & Angular Software Engineer
+## 👋 Hi I'm Mikołaj, mainly Java, Kotlin & Angular Software Engineer
 
 Welcome to my GitHub profile.
 I'm a software engineer based in Poland, and I'm passionate about software architecture, web development and <b>back-end engineering</b>. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
