@@ -112,9 +112,14 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![containerd](https://img.shields.io/badge/containerd-575757.svg?&style=for-the-badge&logo=containerd&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
 ![Cilium](https://img.shields.io/badge/cilium-F8C517.svg?&style=for-the-badge&logo=cilium&logoColor=white)
+![Envoy Proxy](https://img.shields.io/badge/envoy_proxy-AC6199.svg?&style=for-the-badge&logo=envoyproxy&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 ![Argo](https://img.shields.io/badge/argo-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
 
 ### 🛠 Utilities
 
@@ -141,7 +146,7 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 ### 💻 OS
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Red Hat](https://img.shields.io/badge/red_hat-EE0000?style=for-the-badge&logo=redhat&logoColor=black)
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=black)
 ![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 [back to navigation](#-navigation)
