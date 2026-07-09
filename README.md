@@ -114,7 +114,7 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![containerd](https://img.shields.io/badge/containerd-575757.svg?&style=for-the-badge&logo=containerd&logoColor=white)
 ![Helm](https://img.shields.io/badge/helm-0F1689.svg?&style=for-the-badge&logo=helm&logoColor=white)
-![Cilium](https://img.shields.io/badge/cilium-F8C517.svg?&style=for-the-badge&logo=cilium&logoColor=white)
+![Cilium](https://img.shields.io/badge/cilium-F8C517.svg?&style=for-the-badge&logo=cilium&logoColor=black)
 ![Envoy Proxy](https://img.shields.io/badge/envoy_proxy-AC6199.svg?&style=for-the-badge&logo=envoyproxy&logoColor=white)
 ![Argo](https://img.shields.io/badge/argo-EF7B4D.svg?&style=for-the-badge&logo=argo&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/prometheus-E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
