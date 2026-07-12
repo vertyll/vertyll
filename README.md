@@ -24,7 +24,7 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 
 **Legend:**
 - Docs / App language: 🔵 – English | 🔴 – Polish
-- Deployment: 👁️
+- Deployment (Kubernetes - Gateway API with Cilium): 👁️
 
 <div align="center">
 
