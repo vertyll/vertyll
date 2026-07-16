@@ -31,7 +31,7 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 **Legend:**
 
 * Languages: `EN` – English · `PL` – Polish
-* Deployment: `K8s` – Kubernetes Gateway API with Cilium
+* Deployment: `K8s` – Kubernetes
 
 | Category | Project                                                                              |  Languages  | Deployment |
 | -------- | ------------------------------------------------------------------------------------ | :---------: | :--------: |
