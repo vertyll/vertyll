@@ -33,22 +33,22 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 * Languages: `EN` – English · `PL` – Polish
 * Deployment: `K8s` – Kubernetes
 
-| Category | Project                                                                              |  Languages  | Deployment |
-| -------- | ------------------------------------------------------------------------------------ | :---------: | :--------: |
-| Web      | [VEDS](https://github.com/vertyll/veds)                                              |     `EN`    |    `K8s`   |
-| Web      | [FastProd](https://github.com/vertyll/fastprod)                                      |     `EN`    |    `K8s`   |
-| Web      | [Freshly](https://github.com/vertyll/freshly)                                        | `EN` · `PL` |    `K8s`   |
-| Web      | [Kotlin API](https://github.com/vertyll/kotlin-api)                                  |     `EN`    |      —     |
-| Web      | [FastDo](https://github.com/vertyll/fastdo)                                          | `EN` · `PL` |    `K8s`   |
-| Web      | [Festival Page](https://github.com/vertyll/festival-page)                            |     `PL`    |    `K8s`   |
-| Web      | [Festival Admin](https://github.com/vertyll/festival-admin)                          |     `PL`    |    `K8s`   |
-| Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                      |     `PL`    |    `K8s`   |
-| Web      | [Rust Axum App](https://github.com/vertyll/rust-axum-app)                            | `EN` · `PL` |      —     |
-| Systems  | [Form builder](https://github.com/vertyll/form-builder)                              |     `EN`    |      —     |
-| Systems  | [Rust system monitor](https://github.com/vertyll/rust-system-monitor)                | `EN` · `PL` |      —     |
-| Systems  | [Rust console projects](https://github.com/vertyll/rust-console-projects)            |     `EN`    |      —     |
-| Systems  | [Multithreaded Web Server](https://github.com/vertyll/multithreaded-web-server)      |     `EN`    |      —     |
-| Team     | [Reservation System](https://github.com/Dance-reservation-system/Reservation-system) | `EN` · `PL` |      —     |
+| Category | Project                                                                                   |       Languages       | Deployment |
+|----------|-------------------------------------------------------------------------------------------|:---------------------:|:----------:|
+| Web      | [VEDS](https://github.com/vertyll/veds)                                                   |         `EN`          |   `K8s`    |
+| Web      | [FastProd](https://github.com/vertyll/fastprod)                                           |         `EN`          |   `K8s`    |
+| Web      | [Freshly](https://github.com/vertyll/freshly)                                             | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
+| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                  |         `EN`          |     —      |
+| Web      | [FastDo](https://github.com/vertyll/fastdo)                                               | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
+| Web      | [Festival&nbsp;Page](https://github.com/vertyll/festival-page)                            |         `PL`          |   `K8s`    |
+| Web      | [Festival&nbsp;Admin](https://github.com/vertyll/festival-admin)                          |         `PL`          |   `K8s`    |
+| Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                           |         `PL`          |   `K8s`    |
+| Web      | [Rust&nbsp;Axum&nbsp;App](https://github.com/vertyll/rust-axum-app)                       | `EN`&nbsp;·&nbsp;`PL` |     —      |
+| Systems  | [Form&nbsp;builder](https://github.com/vertyll/form-builder)                              |         `EN`          |     —      |
+| Systems  | [Rust&nbsp;system&nbsp;monitor](https://github.com/vertyll/rust-system-monitor)           | `EN`&nbsp;·&nbsp;`PL` |     —      |
+| Systems  | [Rust&nbsp;console&nbsp;projects](https://github.com/vertyll/rust-console-projects)       |         `EN`          |     —      |
+| Systems  | [Multithreaded&nbsp;Web&nbsp;Server](https://github.com/vertyll/multithreaded-web-server) |         `EN`          |     —      |
+| Team     | [Reservation&nbsp;System](https://github.com/Dance-reservation-system/Reservation-system) | `EN`&nbsp;·&nbsp;`PL` |     —      |
 
 [Back to navigation](#navigation)
 
