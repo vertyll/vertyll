@@ -6,8 +6,9 @@
 
 ## 👋 Hi I'm Mikołaj
 
-Welcome to my GitHub profile.
-I'm a software engineer based in Poland, and I'm passionate about software architecture, web development and <b>back-end engineering</b>. I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
+Welcome to my GitHub profile. I'm a software engineer based in Poland, and I'm passionate about software architecture, web development and <b>back-end engineering</b>. 
+I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. 
+I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
 [Go to navigation](#navigation)
 
@@ -30,8 +31,8 @@ I'm a software engineer based in Poland, and I'm passionate about software archi
 
 **Legend:**
 
-* Languages: `EN` – English · `PL` – Polish
-* Deployment: `K8s` – Kubernetes
+* Languages: `EN` – English · `PL` – Polish.
+* Deployment: `K8s` – Kubernetes.
 
 | Category | Project                                                                                   |       Languages       | Deployment |
 |----------|-------------------------------------------------------------------------------------------|:---------------------:|:----------:|
