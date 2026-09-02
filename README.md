@@ -47,7 +47,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 | Systems  | [Rust&nbsp;system&nbsp;monitor](https://github.com/vertyll/rust-system-monitor)           | `EN`&nbsp;·&nbsp;`PL` |     —      | Final&nbsp;version |
 | Systems  | [Rust&nbsp;console&nbsp;projects](https://github.com/vertyll/rust-console-projects)       |         `EN`          |     —      | Final&nbsp;version |
 | Systems  | [Multithreaded&nbsp;Web&nbsp;Server](https://github.com/vertyll/multithreaded-web-server) |         `EN`          |     —      | Final&nbsp;version |
-| Team     | [Reservation&nbsp;System](https://github.com/Dance-reservation-system/Reservation-system) | `EN`&nbsp;·&nbsp;`PL` |     —      |         –          |
+| Team     | [Reservation&nbsp;System](https://github.com/Dance-reservation-system/Reservation-system) | `EN`&nbsp;·&nbsp;`PL` |     —      |         —          |
 
 [Back to navigation](#navigation)
 
