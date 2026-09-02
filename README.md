@@ -32,7 +32,8 @@ I believe that a healthy lifestyle translates into productivity at work and help
 * Languages:
   - `EN` – English.
   - `PL` – Polish.
-* Deployment: `K8s` – Kubernetes.
+* Deployment:
+  - `K8s` – Kubernetes.
 * Status:
   - Development – I work on this in my free time.
   - Final version – no personal time, paused at a stable point for the portfolio.
