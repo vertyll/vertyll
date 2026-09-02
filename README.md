@@ -32,22 +32,22 @@ I believe that a healthy lifestyle translates into productivity at work and help
 * Languages: `EN` – English · `PL` – Polish.
 * Deployment: `K8s` – Kubernetes.
 
-| Category | Project                                                                                   |       Languages       | Deployment |
-|----------|-------------------------------------------------------------------------------------------|:---------------------:|:----------:|
-| Web      | [VEDS](https://github.com/vertyll/veds)                                                   |         `EN`          |   `K8s`    |
-| Web      | [FastProd](https://github.com/vertyll/fastprod)                                           |         `EN`          |   `K8s`    |
-| Web      | [Freshly](https://github.com/vertyll/freshly)                                             | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
-| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                  |         `EN`          |     —      |
-| Web      | [FastDo](https://github.com/vertyll/fastdo)                                               | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
-| Web      | [Festival&nbsp;Page](https://github.com/vertyll/festival-page)                            |         `PL`          |   `K8s`    |
-| Web      | [Festival&nbsp;Admin](https://github.com/vertyll/festival-admin)                          |         `PL`          |   `K8s`    |
-| Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                           |         `PL`          |   `K8s`    |
-| Web      | [Rust&nbsp;Axum&nbsp;App](https://github.com/vertyll/rust-axum-app)                       | `EN`&nbsp;·&nbsp;`PL` |     —      |
-| Systems  | [Form&nbsp;builder](https://github.com/vertyll/form-builder)                              |         `EN`          |     —      |
-| Systems  | [Rust&nbsp;system&nbsp;monitor](https://github.com/vertyll/rust-system-monitor)           | `EN`&nbsp;·&nbsp;`PL` |     —      |
-| Systems  | [Rust&nbsp;console&nbsp;projects](https://github.com/vertyll/rust-console-projects)       |         `EN`          |     —      |
-| Systems  | [Multithreaded&nbsp;Web&nbsp;Server](https://github.com/vertyll/multithreaded-web-server) |         `EN`          |     —      |
-| Team     | [Reservation&nbsp;System](https://github.com/Dance-reservation-system/Reservation-system) | `EN`&nbsp;·&nbsp;`PL` |     —      |
+| Category | Project                                                                                   |       Languages       | Deployment | Status             |
+|----------|-------------------------------------------------------------------------------------------|:---------------------:|:----------:|:------------------:|
+| Web      | [VEDS](https://github.com/vertyll/veds)                                                   |         `EN`          |   `K8s`    | Development        |
+| Web      | [FastProd](https://github.com/vertyll/fastprod)                                           |         `EN`          |   `K8s`    | Development        |
+| Web      | [Freshly](https://github.com/vertyll/freshly)                                             | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
+| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                  |         `EN`          |     —      | Development        |
+| Web      | [FastDo](https://github.com/vertyll/fastdo)                                               | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Final&nbsp;version |
+| Web      | [Festival&nbsp;Page](https://github.com/vertyll/festival-page)                            |         `PL`          |   `K8s`    | Final&nbsp;version |
+| Web      | [Festival&nbsp;Admin](https://github.com/vertyll/festival-admin)                          |         `PL`          |   `K8s`    | Final&nbsp;version |
+| Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                           |         `PL`          |   `K8s`    | Final&nbsp;version |
+| Web      | [Rust&nbsp;Axum&nbsp;App](https://github.com/vertyll/rust-axum-app)                       | `EN`&nbsp;·&nbsp;`PL` |     —      | Final&nbsp;version |
+| Systems  | [Form&nbsp;builder](https://github.com/vertyll/form-builder)                              |         `EN`          |     —      | Final&nbsp;version |
+| Systems  | [Rust&nbsp;system&nbsp;monitor](https://github.com/vertyll/rust-system-monitor)           | `EN`&nbsp;·&nbsp;`PL` |     —      | Final&nbsp;version |
+| Systems  | [Rust&nbsp;console&nbsp;projects](https://github.com/vertyll/rust-console-projects)       |         `EN`          |     —      | Final&nbsp;version |
+| Systems  | [Multithreaded&nbsp;Web&nbsp;Server](https://github.com/vertyll/multithreaded-web-server) |         `EN`          |     —      | Final&nbsp;version |
+| Team     | [Reservation&nbsp;System](https://github.com/Dance-reservation-system/Reservation-system) | `EN`&nbsp;·&nbsp;`PL` |     —      |         –          |
 
 [Back to navigation](#navigation)
 
