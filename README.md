@@ -20,10 +20,10 @@ I believe that a healthy lifestyle translates into productivity at work and help
 
 ## 🧭 Navigation
 
-* [Projects](#personal-projects)
+* [Personal Projects](#personal-projects)
 * [Tech Stack](#tech-stack)
 
-<a id="projects"></a>
+<a id="personal-projects"></a>
 
 ## 👷‍♂️ Personal Projects
 
