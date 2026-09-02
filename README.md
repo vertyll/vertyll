@@ -37,7 +37,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 | Web      | [VEDS](https://github.com/vertyll/veds)                                                   | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
 | Web      | [FastProd](https://github.com/vertyll/fastprod)                                           |         `EN`          |   `K8s`    | Development        |
 | Web      | [Freshly](https://github.com/vertyll/freshly)                                             | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
-| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                  |         `EN`          |     —      | Development        |
+| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                  |         `EN`          |     —      | Final&nbsp;version |
 | Web      | [FastDo](https://github.com/vertyll/fastdo)                                               | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
 | Web      | [Festival&nbsp;Page](https://github.com/vertyll/festival-page)                            |         `PL`          |   `K8s`    | Final&nbsp;version |
 | Web      | [Festival&nbsp;Admin](https://github.com/vertyll/festival-admin)                          |         `PL`          |   `K8s`    | Final&nbsp;version |
