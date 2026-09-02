@@ -10,11 +10,11 @@ Welcome to my GitHub profile. I'm a software engineer based in Poland, and I'm p
 I improve my programming skills every day. Outside of work, physical activity is also important to me. I regularly visit the gym, which helps me maintain my work-life balance. 
 I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
-[Go to navigation](#navigation)
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=vertyll&layout=compact&langs_count=4&theme=dark">
 </p>
+
+[Go to navigation](#navigation)
 
 <a id="navigation"></a>
 
