@@ -41,10 +41,10 @@ I believe that a healthy lifestyle translates into productivity at work and help
 | Category | Project                                                                                   |       Languages       | Deployment | Status             |
 |----------|-------------------------------------------------------------------------------------------|:---------------------:|:----------:|:------------------:|
 | Web      | [VEDS](https://github.com/vertyll/veds)                                                   | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
+| Web      | [FastDo](https://github.com/vertyll/fastdo)                                               | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
 | Web      | [FastProd](https://github.com/vertyll/fastprod)                                           |         `EN`          |   `K8s`    | Development        |
 | Web      | [Freshly](https://github.com/vertyll/freshly)                                             | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
 | Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                  |         `EN`          |     —      | Final&nbsp;version |
-| Web      | [FastDo](https://github.com/vertyll/fastdo)                                               | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    | Development        |
 | Web      | [Festival&nbsp;Page](https://github.com/vertyll/festival-page)                            |         `PL`          |   `K8s`    | Final&nbsp;version |
 | Web      | [Festival&nbsp;Admin](https://github.com/vertyll/festival-admin)                          |         `PL`          |   `K8s`    | Final&nbsp;version |
 | Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                           |         `PL`          |   `K8s`    | Final&nbsp;version |
@@ -101,7 +101,6 @@ I believe that a healthy lifestyle translates into productivity at work and help
 ![Spotless](https://img.shields.io/badge/Spotless-282828?style=flat-square)
 ![detekt](https://img.shields.io/badge/detekt-282828?style=flat-square)
 ![ktlint](https://img.shields.io/badge/ktlint-282828?style=flat-square)
-![SWC](https://img.shields.io/badge/SWC-282828?style=flat-square\&logo=swc\&logoColor=F8C457)
 
 #### Front-end
 
