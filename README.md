@@ -28,7 +28,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 ## 👷‍♂️ Personal Projects
 
 <details>
-<summary><b>Legend</b></summary>
+<summary><b>ℹ️ Legend</b></summary>
 <br>
 
 * Languages:
@@ -81,12 +81,12 @@ I believe that a healthy lifestyle translates into productivity at work and help
 <details>
 <summary><b>🚀 Frameworks, Libraries & Technologies</b></summary>
 
-#### Technologies
+#### 🔗 Technologies
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-00B8E3?style=flat-square&logo=keycloak&logoColor=white)
 
-#### Back-end
+#### ☕ Back-end
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -109,7 +109,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 ![detekt](https://img.shields.io/badge/detekt-282828?style=flat-square)
 ![ktlint](https://img.shields.io/badge/ktlint-282828?style=flat-square)
 
-#### Front-end
+#### 🎨 Front-end
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
@@ -124,12 +124,12 @@ I believe that a healthy lifestyle translates into productivity at work and help
 <details>
 <summary><b>💾 Databases</b></summary>
 
-#### SQL
+#### 🗄️ SQL
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-#### NoSQL
+#### 🍃 NoSQL
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
@@ -155,7 +155,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 </details>
 
 <details>
-<summary><b>🛠 Utilities</b></summary>
+<summary><b>🛠️ Utilities</b></summary>
 <br>
 
 ![Sonar](https://img.shields.io/badge/Sonar-FD3456?style=flat-square&logo=sonar&logoColor=white)
@@ -174,7 +174,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 </details>
 
 <details>
-<summary><b>☁ Cloud Platforms</b></summary>
+<summary><b>☁️ Cloud Platforms</b></summary>
 <br>
 
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
