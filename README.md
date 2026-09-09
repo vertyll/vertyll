@@ -27,16 +27,19 @@ I believe that a healthy lifestyle translates into productivity at work and help
 
 ## 👷‍♂️ Personal Projects
 
-**Legend:**
+<details>
+  <summary>Legend</summary>
 
-* Languages:
-  - `EN` – English.
-  - `PL` – Polish.
-* Deployment:
-  - `K8s` – Kubernetes.
-* Status:
-  - `Development` – I work on this in my free time.
-  - `Final version` – no personal time, paused at a stable point.
+  * Languages:
+    - `EN` – English.
+    - `PL` – Polish.
+  * Deployment:
+    - `K8s` – Kubernetes.
+  * Status:
+    - `Development` – I work on this in my free time.
+    - `Final version` – no personal time, paused at a stable point.
+
+</details>
 
 | Category | Project                                                                                   |       Languages       | Deployment | Status          |
 |----------|-------------------------------------------------------------------------------------------|:---------------------:|:----------:|:---------------:|
