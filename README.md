@@ -167,7 +167,8 @@ I believe that a healthy lifestyle translates into productivity at work and help
 ![SDKMAN!](https://img.shields.io/badge/SDKMAN!-282828?style=flat-square)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![Studio 3T](https://img.shields.io/badge/Studio_3T-17AF66?style=flat-square&logo=studio3t&logoColor=white)
+![Yaak](https://img.shields.io/badge/Yaak-814EDF?style=flat-square&logo=yaak&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 
