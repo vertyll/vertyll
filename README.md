@@ -50,7 +50,7 @@ I believe that a healthy lifestyle translates into productivity at work and help
 | Web      | [Freshly](https://github.com/vertyll/freshly)                                            | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |  `Development`  |
 | Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                 |         `EN`          |     —      |     `Final`     |
 | Web      | [Festival](https://github.com/vertyll/festival)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |     `Final`     |
-| Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                          |         `PL`          |   `K8s`    |     `Final`     |
+| Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |     `Final`     |
 | Web      | [Rust&nbsp;Axum&nbsp;App](https://github.com/vertyll/rust-axum-app)                      | `EN`&nbsp;·&nbsp;`PL` |     —      |     `Final`     |
 | Systems  | [Form&nbsp;builder](https://github.com/vertyll/form-builder)                             |         `EN`          |     —      |     `Final`     |
 | Systems  | [Rust&nbsp;system&nbsp;monitor](https://github.com/vertyll/rust-system-monitor)          | `EN`&nbsp;·&nbsp;`PL` |     —      |     `Final`     |
