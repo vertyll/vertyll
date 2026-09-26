@@ -46,9 +46,9 @@ I believe that a healthy lifestyle translates into productivity at work and help
 |----------|------------------------------------------------------------------------------------------|:---------------------:|:----------:|:---------------:|
 | Web      | [VEDS](https://github.com/vertyll/veds)                                                  | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |  `Development`  |
 | Web      | [FastDo](https://github.com/vertyll/fastdo)                                              | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |  `Development`  |
-| Web      | [FastProd](https://github.com/vertyll/fastprod)                                          |         `EN`          |   `K8s`    |  `Development`  |
+| Web      | [FastProd](https://github.com/vertyll/fastprod)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |  `Development`  |
 | Web      | [Freshly](https://github.com/vertyll/freshly)                                            | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |  `Development`  |
-| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                 |         `EN`          |     —      |     `Final`     |
+| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                 | `EN`&nbsp;·&nbsp;`PL` |     —      |     `Final`     |
 | Web      | [Festival](https://github.com/vertyll/festival)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |     `Final`     |
 | Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |     `Final`     |
 | Web      | [Rust&nbsp;Axum&nbsp;App](https://github.com/vertyll/rust-axum-app)                      | `EN`&nbsp;·&nbsp;`PL` |     —      |     `Final`     |
