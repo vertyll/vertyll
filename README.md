@@ -45,9 +45,10 @@ I believe that a healthy lifestyle translates into productivity at work and help
 | Web      | [FastDo](https://github.com/vertyll/fastdo)                                              | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
 | Web      | [FastProd](https://github.com/vertyll/fastprod)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
 | Web      | [Freshly](https://github.com/vertyll/freshly)                                            | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
-| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                 | `EN`&nbsp;·&nbsp;`PL` |     —      |
 | Web      | [Festival](https://github.com/vertyll/festival)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
 | Web      | [SnapTale](https://github.com/vertyll/SnapTale)                                          | `EN`&nbsp;·&nbsp;`PL` |   `K8s`    |
+| Web      | [Kotlin&nbsp;API](https://github.com/vertyll/kotlin-api)                                 | `EN`&nbsp;·&nbsp;`PL` |     —      |
+| Web      | [jakarta-ee-api](https://github.com/vertyll/jakarta-ee-api)                              | `EN`&nbsp;·&nbsp;`PL` |     —      |
 | Web      | [Rust&nbsp;Axum&nbsp;App](https://github.com/vertyll/rust-axum-app)                      | `EN`&nbsp;·&nbsp;`PL` |     —      |
 | Systems  | [Form&nbsp;builder](https://github.com/vertyll/form-builder)                             |         `EN`          |     —      |
 | Systems  | [Rust&nbsp;system&nbsp;monitor](https://github.com/vertyll/rust-system-monitor)          | `EN`&nbsp;·&nbsp;`PL` |     —      |
