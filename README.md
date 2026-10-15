@@ -11,7 +11,7 @@ I improve my programming skills every day. Outside of work, physical activity is
 I believe that a healthy lifestyle translates into productivity at work and helps achieve better results.
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=vertyll&layout=compact&langs_count=4&theme=dark">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=vertyll&layout=compact&langs_count=4&theme=monokai">
 </p>
 
 [Go to navigation](#navigation)
